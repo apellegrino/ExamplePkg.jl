@@ -1,0 +1,6 @@
+authors = ["Andrew Pellegrino <axp1175@psu.edu>"]
+name = "ExamplePkg"
+uuid = "9337485e-65cf-11e9-11c6-2f49241cd95a"
+version = "0.1.0"
+
+[deps]
