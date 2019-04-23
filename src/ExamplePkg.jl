@@ -1,5 +1,7 @@
 module ExamplePkg
 
-greet() = print("Hello World!")
+function square(x::Number)
+    return x*x
+end
 
 end # module
